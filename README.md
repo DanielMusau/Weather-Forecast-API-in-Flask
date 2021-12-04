@@ -11,7 +11,7 @@ pip install requests
 ### Run
 
 ```
-# Run (:5000 localost) 
+# Run (:5000 localhost) 
 python app.py
 ```
 

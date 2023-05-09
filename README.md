@@ -1,6 +1,6 @@
 # Weather-Forecast-API-in-Flask
 
-### Install Python Dependencies
+### Installing  Python Dependencies
 
 ```
 pip install flask
